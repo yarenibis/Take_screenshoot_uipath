@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="82FbdORSZUSbidsFCRFWCA" Reference="-3xe8kIjNEa7miH4-4DGCQ/sMNXXzKFOUKf7ZSWhH0xuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="brainyquote.com/quotes/sam_levenson_166055" DesignTimeRectangle="39, 288, 1067, 561" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='qimage_*' tag='IMG' /&gt;" Guid="aac54ace-5df6-4a04-9529-e16d069c40e5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sam Levenson - *...' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="70e0bf106a6033d0a21b3990738c40ca.jpg" xmlns="">0zzvsyTphxEGI_Po64Evbcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

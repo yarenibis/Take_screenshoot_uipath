@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="2nnZf0HfFUiNgp71BdQjLw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;html app='chrome.exe' title='Sam Levenson - Don&amp;apos;t watch the clock; do what it does. Keep...' /&gt;" Url="brainyquote.com/quotes/sam_levenson_166055" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

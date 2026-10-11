@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Inspirational Quotes by Famous Authors - BrainyQuote",
+  "Type": "App",
+  "Id": "QZyyFCa7oEunaxS63V1cUw",
+  "Reference": "-3xe8kIjNEa7miH4-4DGCQ/QZyyFCa7oEunaxS63V1cUw",
+  "Created": "2026-10-11T16:39:55.5990542Z",
+  "Updated": "2026-10-11T16:39:55.5990542Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

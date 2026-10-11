@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bW_-gd__JUmj0M2ACmSWpw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="brainyquote.com" DesignTimeRectangle="147, 571, 372, 196" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Don&amp;apos;t watch the clock; do what it does. Keep going. - Sam Levenson' tag='IMG' /&gt;" Guid="af6daea4-a3d4-40ce-8623-b3e3aeaee325" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inspirational Quotes by Famous Authors - BrainyQuote' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="167fb14c96146c613bbe7f251031fdbf.jpg" xmlns="">0tRmCZ4RtOUmZfJe4Wd4l-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Sam Levenson - Don't watch the clock;",
+  "Type": "Screen",
+  "Id": "-kow3q0zHkmmWxrpBbET4A",
+  "Reference": "-3xe8kIjNEa7miH4-4DGCQ/-kow3q0zHkmmWxrpBbET4A",
+  "ParentRef": "-3xe8kIjNEa7miH4-4DGCQ/PYwG0Qs4H0u4GkQCY4QJKA",
+  "Created": "2026-10-11T18:00:53.6055103Z",
+  "Updated": "2026-10-11T18:00:53.6055103Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

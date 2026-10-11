@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t0cTtHvWG0OCuELiCxV3rg" Reference="-3xe8kIjNEa7miH4-4DGCQ/BELu_0xPOU2Mz076iFKxag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="brainyquote.com/quotes/sam_levenson_166055" DesignTimeRectangle="1080, 206, 27, 28" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='IMG' /&gt;" Guid="27bcaf94-eab3-4fc7-98ea-c0613d21369b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sam Levenson - *...' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2e8f9ebe9dfcdaa707899cdf58b14228.jpg" xmlns="">0elrjdY556kK-npLD1RiKaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
